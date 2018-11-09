@@ -1,0 +1,1 @@
+in this exercise I've made a simple C program which creates two variables, compares them and if they match - prints a message. My objective was to reverse .elf executable to make these variables missmatch.
